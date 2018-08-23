@@ -157,5 +157,24 @@ Link to the Playlist [here.](https://www.youtube.com/playlist?list=PLZHQObOWTQDM
 ## Implementing Random Forests | Day 34
 Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
 
-## Implementing Random Forests | Day 35
-Check the code [here.](https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Code/Day%2034%20Random_Forest.md)
+## But what *is* a Neural Network? | Deep learning, chapter 1  | Day 35
+An Amazing Video on neural networks by 3Blue1Brown youtube Channel. This video give a good understanding of Neural Networks and uses Handwritten digit dataset for expaling the concept. 
+Link To the [video.](https://www.youtube.com/watch?v=aircAruvnKk&t=7s)
+
+## Gradient descent, how neural networks learn | Deep learning, chapter 2 | Day 36
+Part two of neural networks by 3Blue1Brown youtube Channel, this video explains the concepts of Gradient Descent in an interesting way. 169 Must watch and Highly Recommended.
+Link To the [video.](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+
+## What is backpropagation really doing? | Deep learning, chapter 3 | Day 37
+Part three of neural networks by 3Blue1Brown youtube Channel, In this video the talk is mostly about the  partial derivatives and backpropagation.
+Link To the [video.](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+
+
+## K Means Clustering | Day 43
+Moved to Unsupervised Learning and studied about Clustering.
+Working on my website check it out [avikjain.me](avikjain.me)
+Also Found A wonderful animation that can help to easily understand K - Means Clustering [Link](http://shabal.in/visuals/kmeans/6.html)
+
+<p align="center">
+  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
+</p>
